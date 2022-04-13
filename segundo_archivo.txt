@@ -1,1 +1,0 @@
-Este es el segundo archivo de este curso de git. Se hace otra modificación.
